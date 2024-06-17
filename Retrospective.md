@@ -44,5 +44,5 @@ To define the scope and objectives of the REWE supermarket project, we needed to
 Proper resource allocation in our example was time and especially the setting of deadlines for tasks are crucial to ensure smooth execution of our plans and finish the project in time. 
 Additionally, establishing communication channels such as WhatsApp and Teams are facilitating us with a better collaboration among my team members and myself. 
 These platforms also help us to give feedback and share current issues effectively in time to eliminate any disruptions to the plan we did. 
-By managing the scrum board, we further enhanced and will enhance our project management processes which will allow us to track our progress and make necessary adjustments if needed again.
+By managing the scrum board https://github.com/orgs/FontysVenlo/projects/352/views/1 </a>, we further enhanced and will enhance our project management processes which will allow us to track our progress and make necessary adjustments if needed again.
 We also used labels to sort them into Advice, Analysis and Design parts, by doing that we could associate the tasks easier to their specific categories. 

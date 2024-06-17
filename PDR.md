@@ -39,6 +39,6 @@ With this, a good working flow will be achieved which will prevent misunderstand
 
 ### Plan: 
 <br> • Week_1-13: Defining scope and objectives of the REWE supermarket. Understand stakeholders and employees wishes more. Proper resource allocation and deadlines for tasks. 
-Establishing communication opportunities like WhatsApp and Teams for better collaboration. Giving feedback and sharing our current issues. Managing the scrum board
+Establishing communication opportunities like WhatsApp and Teams for better collaboration. Giving feedback and sharing our current issues. Managing the scrum board [https://github.com/FontysVenlo/prj4-individual-portfolio-janneshatzius/blob/main/ExcerptAnalysis.md">Point 5.1](https://github.com/orgs/FontysVenlo/projects/352/views/1)</a>
 
 ### Current Level: BEGINNING

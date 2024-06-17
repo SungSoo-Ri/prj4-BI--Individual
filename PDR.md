@@ -14,7 +14,7 @@ To align my aims to the LG I will have the plan set below on when to do what. Th
 <br> • Week_1-8: ---
 <br> • Week_3: Interview with the company https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/edit/main/management/first%20interview.md</a> 
 <br> • Week_9: Understand the needs of the supermarket then setting the requirements of the REWE 
-                    supermarket to find suitable systems to then continue with the SWOT analysis in the 
+                    supermarket to find suitable systems to then continue with the SWOT analysis https://github.com/SungSoo-Ri/prj4-BI--Individual/blob/main/OLD%20SWOT </a> in the 
                     following weeks. 
 <br> • Week_10-11: Setting more specific requirements to the REWE supermarket to filter more 
                             unsuitable systems out. Write specifications on the methodologies that were taken 

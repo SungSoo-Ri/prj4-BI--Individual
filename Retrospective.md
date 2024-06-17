@@ -7,7 +7,7 @@ Although I had to revise the LGs, I received feedback that my PDR was well detai
 In retrospect before this LG I can tell that I first had to think about the structure of the location in regards to how it structures its employees in departments. 
 After having grasped the basic structure, I made an effort in finding suitable systems for the company. I also did the SWOT analysis for each of these systems to find the most suitable. 
 But after getting advice from my Tutor Mr. Schwake I saw the whole selection of systems in a different perspective. 
-My Tutor advised me to first find requirements for a “kick-off” to filter any unnecessary systems that will not be needed by the REWE supermarket anyway. 
+My Tutor advised me to first find requirements for a “knockout” to filter any unnecessary systems that will not be needed by the REWE supermarket anyway. 
 By eliminating a system that does not fulfill one requirement, I could have more suitable systems to recommend in the report for the supermarket chain. 
 And even though I applied it, I still think that the requirements I set are lacking thus I am adding more to it as I was also advised to be more specific or misunderstandings could arise within two parties. 
 To keep it professional and to prevent such issues I therefore took it by heart to implement like that in the future too. 

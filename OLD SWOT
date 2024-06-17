@@ -1,0 +1,151 @@
+6.7 Analysis of Contenders 
+
+Excel sheet 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Current situation, Excel Sheet - Fill in by hand 
+
+Strength: Easy to use, and it needs next to Excel no extra software, so it works independently. 
+
+Weaknesses: Whenever the planner gets changed you as an employee have to go there in person to check what exactly changed. 
+
+Opportunities: No extra cost will occur after a time period. 
+
+Threats: Writing down all shifts by hand can lead to errors, whenever the planner gets changed it can happen that one employee misses their shift because he /she does not take a look at the new version of the planner. 
+
+ 
+
+Excel – Sheet – OneDrive Solution [5] 
+Writing down everything on Excel and publishing these files on OneDrive. 
+
+Strength: Everything will be saved on a server, so you have access to the Excel file from everywhere and you can give suggestions on how to have writing or only looking permissions on the file. Another strength is that excel and OneDrive harmonize together and are good compatible, you can work in the Excel file while it is uploaded on OneDrive without downloading and uploading the file every time. 
+
+Weaknesses: Everyone needs a OneDrive account, and you have to give everyone permission. A OneDrive solution makes only sense for providing the schedule planner, a solution via OneDrive would not make sense for employees to specify their holidays or days off. 
+
+ 
+
+Opportunities: No extra cost, because 5 GB OneDrive storage is free and would be enough for this use case. 
+
+Threats: If every new version of the scheduler is not uploaded to OneDrive, the online scheduler will become inconsistent or outdated. 
+
+ 
+
+Creation of an own web application 
+Create your own individual web application based on the functions of how the current version of the business case works. [3] [4] 
+
+Strength: Everything will be saved on a central server, which means you have access at any time and from everywhere. You have individual control to design the functionality application as you want. In our case no extra hardware or software is needed, application works on a normal web browser. 
+
+Weaknesses: The associated costs for a web application may require a significant investment as not only the capital but time is needed. An additional budget for developers' expertise and tools are needed. Furthermore, it needs ongoing maintenance and support for addressing updates, bugs or other vulnerability issues. 
+
+Opportunities: Optimum adaptation to operational requirements.  
+
+Threats: High production costs and technical complexity as well as security risks. Software has to be maintained, which could be expensive or time-intensive. 
+
+ 
+
+Creation of an own Smartphone application 
+
+Creation of an own smartphone application based on the functions of how the current version of the business case works. [6] 
+
+Strength: Same strength as on a web-based application è Everything will be saved on a central server, which means you have access at any time and from everywhere. You have individual control to design the functionality application as you want. And at last, the accessibility is very easy and fast because you just have to look at your phone. 
+
+Weaknesses: You have to develop an application for every system, for Android and iOS. 
+
+For some use cases of the business case, it will be hard to implement these in a way that is easy to use because you are limited by the screen size.  
+
+Opportunities: Optimum adaptation to operational requirements. 
+
+Threats: High production costs and technical complexity as well as security risks. Software has to be maintained, which could be expensive or time-intensive. 
+
+ 
+
+ 
+
+Dropbox 
+
+Strength: Because of its user friendliness it is quite easy to use. Depending on the purchase of the class there are different opportunities for recovery of deleted data. You can also give out Admin roles. Suspicious activities can also be reported.  Dropbox has a secure condition for Cloud Compliance like certificates and authentications to build trust in its security.  
+
+Weaknesses: Because the Dropbox classes are very flexible the prices also vary. You have to upload so that everyone can see it which makes increases the workload. Furthermore, you also have to download the file to edit it which is time-consuming. 
+
+Opportunities: There are no additional costs except for the monthly fee depending on the Dropbox class. 
+
+Threats: Dropbox has fierce competition with other cloud storage players like Google Drive and Microsoft One Drive. 
+
+If every new version of the scheduler is not uploaded to Dropbox, the online scheduler will become inconsistent or outdated too. 
+
+https://www.dropbox.com/business/trust/security#:~:text=Dropbox%20is%20designed%20with%20multiple,across%20a%20scalable%2C%20secure%20infrastructure. 
+
+https://www.dropbox.com/de/business/trust/compliance#:~:text=Compliance%20bei%20Dropbox,Daten%2C%20Privatsph%C3%A4re%20und%20Datenschutz%20entspricht. 
+
+Google Drive  
+
+ 
+
+Strength: Great ecosystem with many other products and services like Google Docs, Google Calendar as well as Gmail. Furthermore, there is enough free storage already provided with 15GB. It also has additional paid benefits like real-time-editing. 
+
+Weaknesses: Wi-Fi is needed to access the files different than with for example Microsoft Word which may hinder productivity 
+
+Opportunities: By integrating other products and services may enhance productivity for the users. 
+
+Threats: As aforementioned there are also cloud providers which rival with the Google Drive e.g. Microsoft OneDrive and Dropbox. 
+
+https://workspace.google.com/intl/de/security/ 
+
+https://support.google.com/a/answer/10209882?hl=de 
+
+SharePoint 
+
+ 
+
+Strength: SharePoint has advanced security measures and compliance certifications. It offers its users encryption, threat detection and aids in data loss prevention. Once you are familiar with it, it may become very powerful tool. 
+
+Weaknesses: Even though it may provide a better ecosystem it is more expensive in regard to the other Cloud Services. 
+
+Opportunities: SharePoint is Microsoft Office related and aids in document management within the Microsoft environment which ultimately leads to a better workflow. 
+
+Threats: Due to its complexity users may not favour SharePoint, be dissatisfied and instead switch to other Cloud providers. This makes it difficult for SharePoint to rival the other competitors. 
+
+https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/security-and-compliance-controls-in-sharepoint-onedrive-and/ba-p/1698280 
+
+https://learn.microsoft.com/en-us/sharepoint/compliant-environment 
+
+Papershift 
+
+ 
+
+Strength: Papershift has a very user-friendly interface with a drag-and-drop function. Features like time tracking, absence management and payroll are integrated [https://www.softwareadvice.com/hr/papershift-profile/]. 
+
+Weaknesses: May be expensive for small businesses. Some users report bugs and issues regarding mobile app occasionally.  
+
+Opportunities: The market presence of Papershift is expanding outside of Europe too [https://www.papershift.com/en/press] 
+
+Threats:  
+
+ 
+
+ 
+
+ 
+
+Similar Papershift tool?? 
+
+ 
+
+Strength:  
+
+Weaknesses:  
+
+Opportunities:  
+
+Threats:  
+
+ 

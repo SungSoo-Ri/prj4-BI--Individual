@@ -1,0 +1,70 @@
+After filtering out with the knockout method and selecting the best four systems within the excel sheet, the MoSCoW Method will now be applied. As aforementioned is this for finding out which of these systems may be more suited to the stakeholders.<br>
+Now to determine the best scheduling system among Connecteam, Sling, Homebase, and ShedWool for the supermarkets needs, we will apply the MoSCoW method (Must have, Should have, Could have, Won't have) based on their scores and essential features for handling 50 concurrent users.<br>
+<br>
+<br>
+Connecteam<br>
+ Must Have:<br>
+  - Concurrent Users (Score: 6): Essential for handling 50 users simultaneously.<br>
+  - User Capacity (Score: 4): Supports a large number of users.<br>
+ Should Have:<br>
+  - User Friendliness (Score: 3.60): Important for ease of use.<br>
+  - Hardware/OS Compatibility (Score: 3): Necessary for flexibility across devices.<br>
+ Could Have:<br>
+  - Cost (Score: 4): Slightly more expensive, but the features justify the cost.<br>
+ Won't Have:<br>
+  - None identified; all features are relevant and usable.<br>
+<br>
+Sling<br>
+ Must Have:<br>
+  - Concurrent Users (Score: 6): Critical for simultaneous access.<br>
+  - User Capacity (Score: 4): Supports many users effectively.<br>
+ Should Have:<br>
+  - User Friendliness (Score: 3.60): Ensures ease of use.<br>
+  - Hardware/OS Compatibility (Score: 3): Allows use on various devices.<br>
+ Could Have:<br>
+  - Cost (Score: 5): Highest price point, which is less favorable but still important.<br>
+ Won't Have:<br>
+  - None identified; all features are relevant.<br>
+<br>
+Homebase<br>
+ Must Have:<br>
+  - Concurrent Users (Score: 6): Essential for multiple users.<br>
+  - User Capacity (Score: 4): Adequate for handling a large user base.<br>
+ Should Have:<br>
+  - User Friendliness (Score: 3.60): Important for smooth operation.<br>
+  - Hardware/OS Compatibility (Score: 3): Ensures broad usability.<br>
+ Could Have:<br>
+  - Cost (Score: 4): Slightly more expensive, but manageable with the features provided.<br>
+ Won't Have:<br>
+  - None identified; all features are relevant.<br>
+<br>
+ShedWool<br>
+ Must Have:<br>
+  - Concurrent Users (Score: 6): Essential for handling multiple users.<br>
+  - User Capacity (Score: 4): Necessary for a large number of users.<br>
+ Should Have:<br>
+  - Hardware/OS Compatibility (Score: 3): Ensures flexibility across devices.<br>
+ Could Have:<br>
+  - User Friendliness (Score: 2.80): Lower score indicates potential usability issues.<br>
+  - Cost (Score: 5): Most expensive option, which may not be justified given the lower user<br> 
+     friendliness.<br>
+ Won't Have:<br>
+  - None identified; all features are relevant.<br>
+<br>
+<br>
+<br>
+6.9 Decision making:<br>
+<br>
+Given the importance of the concurrent user support, user capacity as well as user friendliness, along with the cost considerations, here’s the final evaluation:<br>
+<br>
+1. Connecteam offers robust features with high concurrent user support and user capacity, coupled with good usability and hardware compatibility. Despite being slightly more expensive, its balanced features make it a strong contender.<br>
+   <br>
+2. Sling also provides excellent concurrent user support and user capacity, with decent usability. However, its higher cost makes it less favorable compared to Connecteam.<br>
+<br>
+3. Homebase matches Connecteam in terms of features and usability but is also slightly more expensive. It’s a very good alternative if cost is less of an issue.<br>
+<br>
+4. ShedWool offers the necessary concurrent user support and user capacity but falls short on user friendliness and comes at the highest cost, making it less desirable.<br>
+<br>
+<br>
+Final decision:<br>
+Even though Sling is having more higher points within the excel sheet, we think that the API Connecteam balances cost, user friendliness, and essential features like concurrent user support and user capacity which makes it the best choice for your scheduling needs. <br>

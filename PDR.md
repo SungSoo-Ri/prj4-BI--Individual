@@ -22,6 +22,8 @@ To align my aims to the LG I will have the plan set below on when to do what. Th
                             introduction. 
 <br> • Week_12-13: After that conduct the SWOT analysis for the most qualified systems. After the 
                             selection of the most suitable system include it to the advice chapter in the report.
+                            Furthermore, the MoSCoW methodology was used to get a more suitable system. Include also analysis https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/API/Long-List%20of%20Contenders.jpg </a> and Advice at the end to come up with a system as a     
+                            recommendation. https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/API/api.md </a> 
 
 ### Current Level: BEGINNING
 

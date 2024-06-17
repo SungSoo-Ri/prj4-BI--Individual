@@ -24,6 +24,7 @@ To align my aims to the LG I will have the plan set below on when to do what. Th
                             selection of the most suitable system include it to the advice chapter in the report.
                             Furthermore, the MoSCoW methodology was used to get a more suitable system. Include also analysis https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/API/Long-List%20of%20Contenders.jpg </a> and Advice at the end to come up with a system as a     
                             recommendation. https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/API/api.md </a> 
+                            
 
 ### Current Level: BEGINNING
 
@@ -42,5 +43,16 @@ With this, a good working flow will be achieved which will prevent misunderstand
 ### Plan: 
 <br> • Week_1-13: Defining scope and objectives of the REWE supermarket. Understand stakeholders and employees wishes more. Proper resource allocation and deadlines for tasks. 
 Establishing communication opportunities like WhatsApp and Teams for better collaboration. Giving feedback and sharing our current issues. Managing the scrum board [https://github.com/FontysVenlo/prj4-individual-portfolio-janneshatzius/blob/main/ExcerptAnalysis.md">Point 5.1](https://github.com/orgs/FontysVenlo/projects/352/views/1)</a>
+https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/management/Project_Management.md </a>
 
 ### Current Level: BEGINNING
+
+
+
+
+Addtitional Activities:
+The project charter is included --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/management/Project%20Charter.md</a> 
+Initila ideas --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/management/initial%20ideas.md
+Pitch --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/management/pitch.md
+Business process --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/Analysis/Business%20processes.md
+Stakeholders --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/Analysis/user%20roles.md

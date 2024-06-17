@@ -51,8 +51,8 @@ https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/managemen
 
 
 Addtitional Activities:
-The project charter is included --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/management/Project%20Charter.md</a> 
-Initila ideas --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/management/initial%20ideas.md
-Pitch --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/management/pitch.md
-Business process --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/Analysis/Business%20processes.md
-Stakeholders --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/Analysis/user%20roles.md
+The project charter is included --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/management/Project%20Charter.md</a> <br>
+Initila ideas --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/management/initial%20ideas.md <br>
+Pitch --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/management/pitch.md <br>
+Business process --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/Analysis/Business%20processes.md <br>
+Stakeholders --> https://github.com/FontysVenlo/prj4-grouprepository-prj4b-01/blob/main/Analysis/user%20roles.md <br>

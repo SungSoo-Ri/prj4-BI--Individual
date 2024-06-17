@@ -1,6 +1,7 @@
-<h1> LG1 </h1>
-
-<h2> Retrospective: </h2> Due to the fact that my previous attempts (week 1-8) to write my PDR failed to meet the learning goals (LGs) with the expectations for PRJ4, I had to revise it multiple times. 
+# LG1
+ 
+## Retrospective: 
+Due to the fact that my previous attempts (week 1-8) to write my PDR failed to meet the learning goals (LGs) with the expectations for PRJ4, I had to revise it multiple times. 
 Although I had to revise the LGs, I received feedback that my PDR was well detailed. Therefore, I aimed to write the LGs with the same level of detail this time around.
 
 In retrospect before this LG I can tell that I first had to think about the structure of the location in regards to how it structures its employees in departments. 
@@ -33,9 +34,10 @@ This order ensures that you're considering all the important factors and priorit
 
 
 
-<h1> LG2 </h1>
+# LG2
 
-<h2> Retrospective: </h2> Due to the fact that my previous attempts (week 1-8) to write my PDR failed to meet the learning goals (LGs) with the expectations for PRJ4, I had to revise it multiple times. 
+## Retrospective: 
+Due to the fact that my previous attempts (week 1-8) to write my PDR failed to meet the learning goals (LGs) with the expectations for PRJ4, I had to revise it multiple times. 
 Although I had to revise the LGs, I received feedback that my PDR was well detailed. Therefore, I aimed to write the LGs with the same level of detail this time around.
 
 To define the scope and objectives of the REWE supermarket project, we needed to delve deeper into understanding the stakeholders' and employees' wishes (which we conducted with the interview in Week 3). 

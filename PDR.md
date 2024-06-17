@@ -11,16 +11,16 @@ At the end I will have the most optimal system which will then be recommended to
 To align my aims to the LG I will have the plan set below on when to do what. The plannings may be taken earlier to finish this project faster. 
 
 ### Plan: 
-• Week_1-8: ---
-• Week_3: Interview with the company
-• Week_9: Understand the needs of the supermarket then setting the requirements of the REWE 
+<br> • Week_1-8: ---
+<br> • Week_3: Interview with the company
+<br> • Week_9: Understand the needs of the supermarket then setting the requirements of the REWE 
                     supermarket to find suitable systems to then continue with the SWOT analysis in the 
                     following weeks. 
-• Week_10-11: Setting more specific requirements to the REWE supermarket to filter more 
+<br> • Week_10-11: Setting more specific requirements to the REWE supermarket to filter more 
                             unsuitable systems out. Write specifications on the methodologies that were taken 
                             into consideration for the SWOT analysis and how it was done in general in the 
                             introduction. 
-• Week_12-13: After that conduct the SWOT analysis for the most qualified systems. After the 
+<br> • Week_12-13: After that conduct the SWOT analysis for the most qualified systems. After the 
                             selection of the most suitable system include it to the advice chapter in the report.
 
 ### Current Level: BEGINNING
@@ -38,7 +38,7 @@ Other more extensive processes that need more collaboration will be held in a me
 With this, a good working flow will be achieved which will prevent misunderstandings and lead us to progress easier.
 
 ### Plan: 
-• Week_1-13: Defining scope and objectives of the REWE supermarket. Understand stakeholders and employees wishes more. Proper resource allocation and deadlines for tasks. 
+<br> • Week_1-13: Defining scope and objectives of the REWE supermarket. Understand stakeholders and employees wishes more. Proper resource allocation and deadlines for tasks. 
 Establishing communication opportunities like WhatsApp and Teams for better collaboration. Giving feedback and sharing our current issues. Managing the scrum board
 
 ### Current Level: BEGINNING
